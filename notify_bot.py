@@ -3,7 +3,7 @@ from telegram.ext import Updater, MessageHandler, Filters, CallbackContext, Comm
 import logging
 
 
-BOT_TOKEN = '6946282609:AAHWMkyA4X7Qu9xlLeROiH89O-KCOlroKk8'
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
 
 TARGET_TEXT = range(1)
 
